@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:orientation="vertical"
+    tools:context=".ui.QuizActivity">
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:id="@+id/tv_score"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="0"
+            android:textColor="#F48FB1"
+            android:layout_marginBottom="16dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/_100"
+            android:textColor="#F48FB1"
+            android:layout_marginBottom="16dp"/>
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        android:textColor="#4D668C"
+        android:textAlignment="center"
+        android:layout_below="@+id/linearLayout"
+        tools:text="Which thing is alive?"
+        android:fontFamily="@font/gotham"
+        android:textSize="22sp"
+        android:padding="8dp"
+        android:layout_marginBottom="40dp"
+        android:id="@+id/tv_question"/>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:orientation="vertical"
+        android:layout_marginBottom="32dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/roboto"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:textColor="#4D668C"
+            android:layout_marginBottom="18dp"
+            android:text="@string/pilihan_jawaban"/>
+
+        <Button
+            android:id="@+id/btn_answer_a"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:background="@drawable/bg_button_quiz"
+            android:layout_marginBottom="18dp"
+            android:fontFamily="@font/gotham"
+            android:textColor="#4D668C"
+            tools:text="A"/>
+
+        <Button
+            android:id="@+id/btn_answer_b"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:background="@drawable/bg_button_quiz"
+            android:layout_marginBottom="18dp"
+            android:fontFamily="@font/gotham"
+            android:textColor="#4D668C"
+            tools:text="B"/>
+
+        <Button
+            android:id="@+id/btn_answer_c"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:background="@drawable/bg_button_quiz"
+            android:layout_marginBottom="18dp"
+            android:fontFamily="@font/gotham"
+            android:textColor="#4D668C"
+            tools:text="C"/>
+
+    </LinearLayout>
+</RelativeLayout>

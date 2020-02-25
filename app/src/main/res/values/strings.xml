@@ -1,0 +1,281 @@
+<resources>
+    <string name="app_name">Orientasi Fisika</string>
+    <string name="pilihan_jawaban">Pilihan Jawaban</string>
+    <string name="_100">/100</string>
+    <string name="rate_the_app">Rate the app</string>
+    <string name="share_the_app">Share the app</string>
+    <string name="orientasi_fisika">Orientasi Fisika</string>
+    <string name="let_s_smart_together">Let\'s smart together</string>
+
+    <string-array name="data_judul">
+        <item>Besaran dan Satuan</item>
+        <item>Suhu dan Pemuaian</item>
+        <item>Zat dan Wujudnya</item>
+        <item>Gerak</item>
+        <item>Gaya</item>
+        <item>Tekanan</item>
+        <item>Getaran dan Gelombang</item>
+        <item>Cahaya dan Optik</item>
+
+    </string-array>
+    <!--note: enter pake kode "\n"-->
+    <string-array name="data_materi1">
+        <item>Besaran dalam fisika diartikan sebagai sesuatu yang dapat diukur, serta memiliki nilai besaran (besar) dan satuan. Sementara, satuan digunakan sebagai pembanding dalam pengukuran."\n" "\n"Satuan Internasional (SI) adalah satuan hasil konferensi para ilmuwan di Paris, yang membahas tentang berat dan ukuran. Nah Squad, berdasarkan satuannya, besaran terdiri dari besaran pokok dan besaran turunan.
+        "\n" "\n"
+            a. Besaran Pokok
+            "\n" "\n"
+            Merupakan besaran yang menjadi dasar untuk menetapkan besaran yang lain. Satuan besaran pokok disebut satuan pokok dan telah ditetapkan terlebih dahulu berdasarkan kesepakatan para ilmuwan. Besaran pokok sifatnya bebas, artinya tidak bergantung pada besaran pokok yang lain. Berikut, disajikan besaran pokok yang telah disepakati oleh para ilmuwan.
+        </item>
+
+        <item>Kata suhu sering diartikan sebagai suatu besaran yang menyatakan derajat panas atau dinginnya suatu benda. Seperti besaran lainnya, kita dapat mengukur besaran suhu ini dengan menggunakan alat ukur yang bernama termometer, suatu alat yang dinyatakan dengan angka tertentu yang berfungsi sebagai skala pengukuran suhu.
+        "\n" "\n" Skala Pada Termometer "\n"
+            Perhatikan gambar termometer pada gambar di bawah berikut!</item>
+        <item>Wujud Zat "\n" "\n"
+        Berdasarkan wujudnya zat dapat dibedakan menjadi tiga macam yaitu padat, cair, dan gas. Masing-masing wujud zat mempunyai ciri-ciri khusus baik dilihat dari bentuk fisiknya maupun partikel-partikel penyusunnya sebagai berikut:
+        "\n" "\n"
+            1. Zat Padat \n
+            \n\u25CF Letak molekulnya sangat berdekatan dan teratur.\n
+            \n\u25CF Bentuknya tetap dikarenakan partikel-partikel pada zat padat saling berdekatan, tersusun teratur dan mempunyai gaya tarik antar partikel sangat kuat \n
+            \n\u25CF Volumenya tetap dikarenakan partikel pada zat padat dapat bergerak dan berputar pada kedudukannya saja \n
+            \n\u25CF Gaya tarik-menarik antar molekul sangat kuat sehingga gerakan molekulnya tidak bebas.\n
+            \n\u25CF Gerakan molekulnya terbatas, yaitu hanya bergetar dan berputar di tempat saja.\n
+            \n\u25CF Molekul-molekulnya sulit dipisahkan sehingga membuat bentuknya selalu tetap atau tidak berubah.\n
+            Contoh: kayu, batu, besi \n \n
+
+            2. Zat Cair \n
+            \n\u25CFLetak molekulnya relatif berdekatan bila dibandingkan dengan gas tetapi lebih jauh daripada zat padat. "\n"
+            \n\u25CFBentuknya berubah-ubah dikarenakan partikel-partikel pada zat cair berdekatan tetapi renggang, tersusun teratur, gaya tarik antar partikel agak lemah. "\n"
+            \n\u25CFVolumenya tetap dikarenakan partikel pada zat cair mudah berpindah tetapi tidak dapat meninggalkan kelompoknya. "\n"
+            \n\u25CFGerakan molekulnya cukup bebas. "\n"
+            \n\u25CFMolekul dapat berpindah tempat, tetapi tidak mudah meninggalkan kelompoknya karena masih terdapat gaya tarik menarik. "\n"
+            Contoh : air, minyak, oli "\n""\n"
+
+            3. Zat Gas \n
+            \n\u25CF Bentuknya berubah-ubah dikarenakan partikel-partikel pada zat gas berjauhan, tersusun tidak teratur, gaya tarik antar partikel sangat lemah.
+            \n\u25cf Volumenya berubah-ubah dikarenakan partikel pada zat gas dapat bergerak bebas meninggalkan kelompoknya.
+            \n\u25CF Letak molekulnya sangat berjauhan.
+            \n\u25CF Jarak antar molekul sangat jauh bila dibandingkan dengan molekul itu sendiri.
+            \n\u25CF Molekul penyusunnya bergerak sangat bebas.
+            \n\u25CF Gaya tarik menarik antar molekul hampir tidak ada.
+            \n\u25CF Dapat mengisi seluruh ruangan yang ada.
+            Contoh : Udara \n \n
+
+            Berdasarkan keadaan partikel-partikel wujud zat di atas, kita tahu bahwa partikel zat padat dapat bergerak. Hal ini dapat dilihat dari larutnya gula dalam air, partikel-pertikel gula meninggalkan ikatannya dan membaur di antara partikel-partikel zat cair sehingga air terasa manis dan wujud padat gula tidak terlihat lagi. "\n"
+
+        </item>
+        <item>
+            Gerak adalah perubahan posisi suatu objek yang diamati dari suatu titik acuan. Titik acuan yang dimaksud didefinisikan sebagai titik awal objek tersebut ataupun titik tempat pengamat berada. \n
+            \nSebagai contoh, kamu sedang berada didalam kereta yang sedang ber gerak lurus dengan kecepatan 80 km/jam, lalu kamu berjalan menuju bagian depan kereta dengan kecepatan 5 km/jam. Kecepatan kamu adalah sebesar 5 km/jam jika dilihat dari pengamat (titik acuan) yang juga berada di dalam kereta. Akan tetapi, jika pengamat tersebut berada berada di stasiun atau titik acuannya berada di luar kereta, maka kamu dianggap bergerak dengan kecepatan 80 km/jam + 5 km/jam = 85 km/jam. (Perhatikan gambar dibawah)
+        </item>
+        <item>Gaya adalah tarikan atau dorongan yang terjadi terhadap suatu benda. Gaya bisa menyebabkan perubahan posisi, gerak atau perubahan bentuk pada benda. Gaya termasuk ke dalam besaran Vektor, karena mempunyai nilai dan arah. Sebuah Gaya disimbolkan dengan huruf F (Force) dan Satuan Gaya dalam SI (Satuan Internasional) yaitu Newton, disingkat dengan N. Pengukuran gaya bisa dilakukan dengan alat yang disebut dengan dinamometer atau neraca pegas. Untuk melakukan sebuah gaya diperlukan usaha (Tenaga), semakin besar gaya yang hendak dilakukan, maka semakin besar pula Usaha (tenaga) yang harus dikeluarkan. \n\n
+        Gaya didefinisikan sebagai suatu tarikan atau suatu dorongan yangdikerahkann sebuah benda terhadap benda lain. Pengaruh gaya pada benda antara lain sebagai berikut: \n
+            \n\u2022 Menyebabkan perubahan kecepatan gerak benda.
+            \n\u2022 Menyebabkan benda diam menjadi bergerak dan sebaliknya.
+            \n\u2022 Mengubah arah gerak benda.
+            \n\u2022 Mengubah bentuk suatu benda.
+
+            \n\nSifat-Sifat Gaya "\n" \n
+            Berdasarkan penjelasan diatas, maka bisa disimpulkan bahwa gaya mempunyai beberapa sifat berikut :
+            \n
+            \n\u2022 Gaya dapat mengubah arah gerak benda
+            \n\u2022 Gaya dapat mengubah bentuk benda
+            \n\u2022 Gaya dapat mengubah posisi benda dengan cara menggerakkan atau memindahkannya</item>
+        <item>
+            Tekanan merupakan suatu ukuran yang terdiri dari besarnya gaya yang bekerja pada suatu benda untuk setiap satu satuan luas permukaan bidang tekan. Tekanan dapat dinotasikan sebagai simbolp (pressure). Satuan tekanan yang lain adalah pascal (Pa) dan bar.
+        \n
+            \n\u25CF Tekanan Pada Zat Padat
+            \n
+            Tekanan pada suatu zat padat dapat dinyatakan sebagai gaya per satuan luas penampang. Secara matematis, tekanan dapat dinyatakan sebagai berikut.
+            \ndengan:     p = f/a
+            \np = tekanan (N/m2)
+            \nF = gaya (N)
+            \nA = luas bidang tekan (m2)
+            \n
+
+
+        </item>
+        <item>
+            \n\u25CF Definisi Getaran
+            Getaran merupakan gerakan bolak-balik pada suatu benda dalam selang waktu tertentu melalui titik kesetimbangannya. Benda dikatakan bergetar dalam satu kali getaran penuh yakni dari titik awal dan kembali ke titik awal tersebut.
+        </item>
+        <item>\u25CF Definisi Cahaya\n\n
+        Cahaya adalah energi berbentuk gelombang elektromagnetik yang kasat mata dengan panjang gelombang sekitar 380-750 nm. Gelombang elektromagnetik adalah gelombang yang tidak memerlukan medium untuk merambat. Sehingga cahaya dapat merambat tanpa memerlukan medium
+        Cahaya yang biasa kita lihat merupakan kelompok-kelompok sinar cahaya atau disebut berkas cahaya.
+        \nBerkas cahaya dapat digolongkan atas :
+        \na) Berkas cahaya menyebar (divergen), yaitu berkas cahaya yang berasal dari satu titik kemudian menyebar ke segala arah.
+        \nb) Berkas cahaya sejajar, yaitu berkas cahaya yang arahnya sejajar satu sama lain.
+        \nc) Berkas cahaya mengumpul, yaitu berkas cahaya yang menuju ke satu titik tertentu.
+\n\n
+           \u25CF Sifat-Sifat Cahaya \n
+            \n\u2022Cahaya dapat merambat lurus.
+            \n\u2022Cahaya dapat dipantulkan.
+            \n\u2022Cahaya dapat menembus benda bening.
+            \n\u2022Cahaya dapat dibiaskan.
+            \n\u2022Cahaya dapat diuraikan.
+\n\n
+           \u25CF Pemantulan Cahaya \n
+            \n\u2022 Berdasarkan keadaan permukaannya, pemantulan cahaya dibagi menjadi 2, yaitu pemantulan difus dan pemantulan teratur.
+            \n\u2022 Pemantulan difus atau pemantulan baur, yaitu pemantulan cahaya ke segala arah yang terjadi karena bekas sinar datang jatuh pada permukaan kasar atau tidak rata. Pemantulan ini akan memberi kesan menyilaukan mata.
+            \n\u2022 Pemantulan teratur, yaitu pemantulan yang terjadi karena berkas sinar datang jatuh pada permukaan halus atau rata. Pada pemantulan teratur, cahaya akan dipantulkan ke satu arah. Pemantulan ini akan menyejukkan mata.
+        </item>
+        <item>Yang masih pake Xiaomi jangan kebanyakan Gaya</item>
+        <item>Yang masih pake Xiaomi jangan kebanyakan Gaya</item>
+    </string-array>
+
+    <string-array name="data_materi2">
+        <item>b. Besaran turunan
+        "\n" "\n"
+            Merupakan turunan dari besaran pokok. Satuan besaran turunan disebut satuan turunan dan diperoleh dengan menggabungkan beberapa satuan besaran pokok. Berikut merupakan beberapa contoh besaran turunan beserta satuannya,
+        </item>
+        <item>"\n" "\n"Pemuaian"\n" "\n"Pemuaian Pada umumnya, Sebagian besar zat akan memuai bila dipanaskan dan menyusut ketika didinginkan. Bila suatu zat dipanaskan (suhunya dinaikkan) maka molekul molekulnya akan bergetar lebih cepat dan amplitudo getaran akan bertambah besar, akibatnya jarak antara molekul benda menjadi lebih besar dan terjadilah pemuaian."\n" "\n"Pemuaian adalah bertambahnya ukuran benda akibat kenaikan suhu zat tersebut. Pemuaian dapat terjadi pada zat padat, cair, dan gas. Besarnya pemuaian zat sangat tergantung ukuran benda semula, kenaikan suhu dan jenis zat. Efek pemuaian zat sangat bermanfaat dalam pengembangan berbagai teknologi.</item>
+
+        <item>Perubahan Wujud "\n" "\n"
+        Perubahan wujud zat dapat berlangsung apabila mendapat pengaruh panas maupun tekanan, baik dari luar maupun dari dalam zat itu sendiri. Pengaruh panas yang diserap zat dapat mengubah wujud zat dari padat ke cair maupun langsung ke bentuk gas, dapat juga mengubah wujud dari cair menjadi gas. Perubahan wujud zat digolongkan menjadi enam peristiwa sebagai berikut:
+            
+        </item>
+        <item>\nJadi, sangatlah penting untuk menetapkan titik acuan ketika kita sedang mengamati suatu objek yang bergerak.
+        \n\nPada saat suatu objek bergerak, objek tersebut akan mengalami perubahan jarak serta dapat pula mengalami perubahan posisi atau biasa disebut perpindahan. Berikut dijelaskan lebih lanjut,\n
+            \n\u25CFJarak (distance) merupakan panjang seluruh lintasan yang ditempuh suatu objek yang bergerak. Jarak hanya memiliki nilai.
+            \n\u25cfPerpindahan (displacement) merupakan panjang lintasan lurus yang diukur dari posisi awal dengan posisi akhir dari objek tersebut. Perpindahan memiliki nilai dan arah.
+            \n\n
+            Sebagai contoh, kamu ber gerak lurus sejauh 70 m ke Timur lalu berbalik dan berjalan kembali (ke Barat) sejauh 30 m. Total jarak yang kamu tempuh adalah sebesar 100 m, akan tetapi perpindahan yang kamu lakukan hanya sebesar 40 m karena titik akhir kamu berada sekarang hanya sejauh 40 m dari titik awal. (Perhatikan gambar dibawah)
+
+        </item>
+        <item>
+            \n\u25CF Rumus Hukum Gaya
+            \n\n
+            Pada tahun 1687, Sir Isaac Newton, ilmuwan Fisika berkebangsaan Inggris, berhasil menemukan hubungan antaragaya dan gerak. Dari hasil pengamatan dan eksperimennya,Newton merumuskan tiga hukum mengenai gaya dan gerakyang dikenal dengan Hukum I Newton, Hukum II Newton, danHukum III Newton. Nah, agar kamu lebih memahami ketigahukum Newton tentang gerak, mari mempelajari uraian berikut:
+            \n\n
+            Hukum I Newton
+            \n\n
+            Hukum pertama Newton tentang gerak menyatakan bahwa“sebuah benda yang bergerak dengan kecepatan tetap akan terus bergerak dengan kecepatan tersebut kecuali ada gaya resultan bekerja pada benda itu. Jika sebuah benda dalam keadaan diam, benda tersebut tetap diam kecuali ada gaya resultan yang bekerja pada benda itu.”Hukum I Newton juga menggambarkan sifat benda yangselalu mempertahankan keadaan diam atau keadaanbergeraknya yang dinamakan inersia atau kelembaman. Oleh karena itu, Hukum I Newton dikenal juga dengan sebutan Hukum Kelembaman.
+            \n\n
+            Contoh: Kita terdorong ke depan ketika bus tiba- tiba direm atau terdorong ke belakang ketika bus bergerak maju secara mendadak \n
+            ∑F = 0
+            \n\n
+            Hukum II Newton
+            \n\n
+            Newton merumuskan Hukum II Newton sebagai berikut: “Percepatan yang dihasilkan oleh resultan gaya yang bekerja pada suatu benda berbanding lurus dengan resultan gaya dan berbanding terbalik massa benda.”
+            \n
+            \nKeterangan:
+            \nF = resultan gaya (Newton).
+            \nm = massa benda (kg).
+            \na = percepatan benda (Newton/kg).
+            \n\n
+
+            Hukum III Newton
+            \n\n
+            Hukum III Newton menyatakan bahwa: “Jika kamu memberikan gaya pada suatu benda (gaya aksi), kamu akan mendapatkan gaya yang sama besar, tetapi arahnya berlawanan (gaya reaksi) dengan gaya yang kamuberikan.”
+            \n
+            \nF aksi = – F reaksi
+            \n\n
+            Gaya aksi dan reaksi tersebut memiliki besar yang sama,tetapi berlawanan arah dan bekerja pada dua benda yangberbeda.
+            \n\n
+            Contoh: penyelam dapat berenang di dalam laut karena kaki dan tangan penyelam mendorong air ke belakang (gaya aksi) sehingga badan penyelam terdorong ke depan sebagai gaya reaksi.
+            \n\n
+            \n\u25CFTeori Gaya
+            \n\n
+
+        </item>
+        <item>\n\u25CF Tekanan Pada Zat Cair
+            \n\n
+            Tekanan pada zat cair sering disebut juga dengan tekanan hidrostatis. Tekanan hidrostatis ini tergantung pada suatu tingkatan kedalaman dan berat jenis pada zat cair. Tekanan pada zat cair mengarah ke segala arah. Rumus tekanan hidrostatis sebagai berikut.
+            \n\nPh = p.g.h\n\n
+            dengan:
+            \nph = tekanan hidrostatis zat cair (N/m2)
+            \np = massa jenis (kg/m3)
+            \ng = percepatan gravitasi (m/s2)
+            \nh = kedalaman dari permukaan (m)
+            \n
+            \n\u25CF Tekanan Pada Zat Cair
+            \n\n
+            Gas-gas yang ada di dalam ruangan yang tertutup akan mengeluarkan udar dan  menekan ke segala arah dengan sama besar. Tekanan gas pada ruang tertutup bisa diukur dengan menggunakan 2 alat yang berbeda yang masing-masing namanya seperti  manometer terbuka dan manometer tertutup. Tekanan gas dalam ruang terbuka dapat diukur dengan menggunakan barometer.
+            \nManomemeter terbuka ini terdiri dari tabung pipa kapiler yang bentuknya seperti huruf U yang terhubung dengan tabung gas. Besar tekanan udara yang terbaca pada suatu sisi pipa yang terbuka sama dengan tekanan gas dalam suatu tabung. Perhatikan diagram manometer terbuka berikut ini.
+            \n\n
+            Hukum Pascal
+            \n\n
+            Hukum Pascal adalah hukum yang menerangkan tentang suatu sifat tekanan pada zat cair. Hukum Pascal menyatakan bahwa:
+            \n“Tekanan yang diberikan pada zat cair dalam ruang tertutup akan diteruskan ke segala arah dengan sama besar.”
+            \ndengan:
+            \nF1 = gaya pada penampang A1(N)
+            \nF2 = gaya pada penampang A2(N)
+            \nA1= luas penampang 1 (m2)
+            \nA2 = luas penampang 2 (m2)
+            \nPeralatan yang menggunakan prinsip hukum Pascal, antara lain seperti rem hidrolik, pompa hidrolik, dan dongkrak hidrolik.
+       </item>
+        <item>
+            Contohnya, getaran pada bandul sederhana di atas. Satu kali getaran penuh adalah saat benda bergerak dari titik A-B-C-B-A atau dari titik C-B-A-B-C. Simpangan terjauh pada bandul yaitu pada titik A atau titik C. Simpangan terjauh ini, disebut dengan amplitudo. Jika kita lihat pada gambar di atas, amplitudo pada bandul adalah jarak BC atau jarak BA. Titik B merupakan titik setimbang, jarak dari titik B pada selang waktu tertentu disebut simpangan.
+            \n\u25CF Konsep Gelombang
+
+            \nGelombang adalah getaran yang merambat, yang membawa energi selama perambatannya. Gelombang dibagi menjadi 2 jenis, yaitu berdasarkan medium perambatannya dan berdasarkan arah rambatnya.
+
+            \nBerdasarkan medium perambatannya
+
+            \n\u2022 Gelombang mekanik: Gelombang yang membutuhkan medium dalam perambatannya. Contohnya pada gelombang bunyi. Seseorang dapat mendengarkan musik dan suara karena gelombang bunyi merambat melalui udara sehingga sampai ke telinga.
+            \n\u2022 Gelombang elektromagnetik: Gelombang yang tidak membutuhkan medium dalam perambatannya. Contohnya pada gelombang cahaya.
+
+        </item>
+        <item>
+        \na. Pemantulan difus atau pemantulan baur, yaitu pemantulan cahaya ke segala arah yang terjadi karena bekas sinar datang jatuh pada permukaan kasar atau tidak rata. Pemantulan ini akan memberi kesan menyilaukan mata.
+        \nb.  Pemantulan teratur, yaitu pemantulan yang terjadi karena berkas sinar datang jatuh pada permukaan halus atau rata. Pada pemantulan teratur, cahaya akan dipantulkan ke satu arah. Pemantulan ini akan menyejukkan mata.
+            \n\n
+        \u25CF CERMIN
+\n\n
+
+        Cermin adalah benda padat yang salah satu sisinya halus dan mengkilap yang dilapisi amalgam perak sehingga memantulkan seluruh cahaya yang datang. Cermin dibedakan menjadi 3, yaitu : cermin datar, cermin cekung , dan cermin cembung.
+            \n\n
+Pemantulan pada Cermin Datar
+\n\n
+Berdasar pengamatan dengan menggunakan cakram optik, Snellius menyimpulkan hal-hal berikut.
+
+        </item>
+        <item>Yang masih pake Xiaomi jangan kebanyakan Gaya</item>
+        <item>Yang masih pake Xiaomi jangan kebanyakan Gaya</item>
+    </string-array>
+
+    <array name="data_gambar1">
+        <item>@drawable/materi_besaran1</item>
+        <item>@drawable/materi_suhu1</item>
+        <item>@drawable/materi_zat1</item>
+        <item>@drawable/materi_gerak1</item>
+        <item>@drawable/materi_gaya1</item>
+        <item>@drawable/materi_tekanan1</item>
+        <item>@drawable/materi_getaran1</item>
+        <item>@drawable/materi_cahaya1</item>
+    </array>
+
+    <array name="data_gambar2">
+        <item>@drawable/materi_besaran2</item>
+        <item>@drawable/materi_suhu2</item>
+        <item>@drawable/materi_zat2</item>
+        <item>@drawable/materi_gerak2</item>
+        <item>@drawable/materi_gaya2</item>
+        <item></item>
+        <item>@drawable/materi_getaran2</item>
+        <item>@drawable/materi_cahaya2</item>
+    </array>
+
+    <array name="data_poster">
+        <item>@drawable/sampul_besaran</item>
+        <item>@drawable/sampul_suhu</item>
+        <item>@drawable/sampul_zat</item>
+        <item>@drawable/sampul_gerak</item>
+        <item>@drawable/sampul_gaya</item>
+        <item>@drawable/sampul_tekanan</item>
+        <item>@drawable/sampul_getaran</item>
+        <item>@drawable/sampul_cahaya</item>
+
+    </array>
+
+    <array name="data_sampul">
+        <item>@drawable/sampul_besaran_detail</item>
+        <item>@drawable/sampul_suhu_detail</item>
+        <item>@drawable/sampul_zat_detail</item>
+        <item>@drawable/sampul_gerak_detail</item>
+        <item>@drawable/sampul_gaya_detail</item>
+        <item>@drawable/sampul_tekanan_detail</item>
+        <item>@drawable/sampul_getaran_detail</item>
+        <item>@drawable/sampul_cahaya_detail</item>
+
+    </array>
+</resources>
